@@ -1,2 +1,2 @@
-# MarketBook
-Seu encarte virtual com cara de rede social!
+# Mobile apps
+Applications for Android and iOS
